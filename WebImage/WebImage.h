@@ -35,3 +35,5 @@ FOUNDATION_EXPORT const unsigned char WebImageVersionString[];
 #import <WebImage/UIImage+WebP.h>
 #import <WebImage/UIImage+GIF.h>
 #import <WebImage/NSData+ImageContentType.h>
+
+//add by zxf for test fork git
